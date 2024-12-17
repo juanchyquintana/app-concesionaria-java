@@ -1,0 +1,16 @@
+com\juandiegoquintana\automovil\logica\Controladora.class
+com\juandiegoquintana\automovil\igu\AltaAutomovil$1.class
+com\juandiegoquintana\automovil\logica\Automovil.class
+com\juandiegoquintana\automovil\logica\Automovil_.class
+com\juandiegoquintana\automovil\persistencia\exceptions\PreexistingEntityException.class
+com\juandiegoquintana\automovil\igu\AltaAutomovil.class
+com\juandiegoquintana\automovil\igu\AltaAutomovil$2.class
+com\juandiegoquintana\automovil\persistencia\ControladoraPersistencia.class
+com\juandiegoquintana\automovil\igu\Principal$3.class
+com\juandiegoquintana\automovil\Automovil.class
+com\juandiegoquintana\automovil\persistencia\exceptions\IllegalOrphanException.class
+com\juandiegoquintana\automovil\persistencia\AutomovilJpaController.class
+com\juandiegoquintana\automovil\igu\Principal$2.class
+com\juandiegoquintana\automovil\persistencia\exceptions\NonexistentEntityException.class
+com\juandiegoquintana\automovil\igu\Principal.class
+com\juandiegoquintana\automovil\igu\Principal$1.class
